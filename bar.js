@@ -1,12 +1,8 @@
 
 function f(){
 
-<<<<<<< HEAD
-    const a=113;
-=======
-    const a=111;
->>>>>>> dev
 
+    const a=1;
     console.log("1baw=",a);
 
 }

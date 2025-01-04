@@ -3,12 +3,8 @@
 
 function f(){
 
-<<<<<<< HEAD
-    const a=54;
-    throw 11312;
-=======
-    const a=151;
+    const a=11;
     throw 1;
->>>>>>> dev
+
 
 }
