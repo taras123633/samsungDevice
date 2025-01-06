@@ -1,8 +1,8 @@
 
 function f(){
 
-    const a=111;
 
+    const a=1;
     console.log("1baw=",a);
 
 }

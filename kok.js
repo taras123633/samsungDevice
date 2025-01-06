@@ -3,7 +3,8 @@
 
 function f(){
 
-    const a=151;
+    const a=11;
     throw 1;
+
 
 }
