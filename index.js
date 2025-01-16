@@ -4,7 +4,7 @@
 
 function f(){
 
-    const a=123;
+    const a=1123;
 
     const b=a+12;
 
