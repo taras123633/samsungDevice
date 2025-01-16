@@ -3,7 +3,7 @@
 
 function f(){
 
-    const a=11;
+    const a=1111;
     throw 1;
 
 
